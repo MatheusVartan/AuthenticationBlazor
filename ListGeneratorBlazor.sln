@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29613.14
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListGeneratorBlazor.Server", "src\Server\ListGeneratorBlazor.Server.csproj", "{E0E52700-0F3C-4802-B80C-E8F55F202BD5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ListGeneratorBlazor.Server", "src\Server\ListGeneratorBlazor.Server.csproj", "{E0E52700-0F3C-4802-B80C-E8F55F202BD5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListGeneratorBlazor.Client", "src\Client\ListGeneratorBlazor.Client.csproj", "{DE0BB889-5098-40A3-A4B1-32C731984A50}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ListGeneratorBlazor.Client", "src\Client\ListGeneratorBlazor.Client.csproj", "{DE0BB889-5098-40A3-A4B1-32C731984A50}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListGeneratorBlazor.Shared", "src\Shared\ListGeneratorBlazor.Shared.csproj", "{6A3E00C3-6E13-4038-81D5-508B51DFBE38}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ListGeneratorBlazor.Shared", "src\Shared\ListGeneratorBlazor.Shared.csproj", "{6A3E00C3-6E13-4038-81D5-508B51DFBE38}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
